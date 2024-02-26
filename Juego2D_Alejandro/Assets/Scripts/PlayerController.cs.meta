@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 100a5611c1a874b62b3ded7c808948e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PointsText: {instanceID: 0}
+  - LifeText: {instanceID: 0}
+  - jumpAudioClip: {fileID: 8300000, guid: 370439bd978ff4392906c3e8f383cb11, type: 3}
+  - diamondAudioClip: {fileID: 8300000, guid: 3b6e4c6db221e46568b920b73f68074e, type: 3}
+  - attackAudioClip: {fileID: 8300000, guid: f066daa4eb8e54eb0acf52a1fb73a528, type: 3}
+  - explosionAudioClip: {fileID: 8300000, guid: 15436b76224a94e68a91116a50022d1e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
